@@ -11,15 +11,16 @@ pip install cryptography
 ```
 ### 2 Prepare Your Files
 
-Make sure both files are in the same folder:
+Make sure both files are in the **same folder**:
 ```
 . crypto_module.py
 . secret_chat.py
 ```
 
-Save both files (crypto_module.py & secret_chat.py) in the same folder.
+### 3 Run the Chat Program
 
-Run `python secret_chat.py` in two different terminal
+Open two Command Prompt windows and run in each:
+```python secret_chat.py``` 
 
 At first on getting the prompt write **server** or  **client** to get role
 
