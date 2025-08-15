@@ -4,14 +4,17 @@ This is a simple chat application which can be used locally and the data are enc
 ## **Windows**
 
 
-### 1️⃣ Install the `cryptography` library
+### 1 Install the `cryptography` library
 In **Command Prompt**, run:  
 ```bash
 pip install cryptography
 ```
+### 2 Prepare Your Files
 
-write it in command prompt for installing cryptography in your Computer
-<pre> bash pip install cryptography </pre>
+Make sure both files are in the same folder:
+```bash
+. pip install cryptography
+```
 
 Save both files (crypto_module.py & secret_chat.py) in the same folder.
 
