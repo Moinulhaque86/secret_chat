@@ -12,6 +12,6 @@ Run `python secret_chat.py` in two different terminal
 
 At first on getting the prompt write **server** or  **client** to get role
 
-If client is chosen then you need to provide the IP Address of server.[<pre> ipconfig </pre>]
+If client is chosen then you need to provide the IP Address of server. `ipconfig`
 
 
