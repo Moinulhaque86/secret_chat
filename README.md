@@ -1,7 +1,14 @@
 # secret_chat
 This is a simple chat application which can be used locally and the data are encrypted by using with share key(if needed)
 
-**Windows**
+## **Windows**
+
+
+### 1️⃣ Install the `cryptography` library
+In **Command Prompt**, run:  
+```bash
+pip install cryptography
+
 
 write it in command prompt for installing cryptography in your Computer
 <pre> bash pip install cryptography </pre>
