@@ -8,6 +8,6 @@ write it in command prompt for installing cryptography in your Computer
 
 Save both files (crypto_module.py & secret_chat.py) in the same folder.
 
-
+Run 'python secret_chat.py' in two different terminal
 
 
