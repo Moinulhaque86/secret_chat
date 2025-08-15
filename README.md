@@ -53,7 +53,6 @@ Look for **Ethernet2** → **IPv4 Address**
 ```
 
 
-### Contributor of the project
-<span style="color: red;">This text is red</span>
-Moinul Haque
-   moinul.haque@bracu.ac.bd
+# Contributor of the project
+
+Moinul Haque moinul.haque@bracu.ac.bd/ moinulmamun5@gmail.com
