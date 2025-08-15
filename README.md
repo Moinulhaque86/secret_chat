@@ -12,8 +12,9 @@ pip install cryptography
 ### 2 Prepare Your Files
 
 Make sure both files are in the same folder:
-```bash
-. pip install cryptography
+```
+. crypto_module.py
+. secret_chat.py
 ```
 
 Save both files (crypto_module.py & secret_chat.py) in the same folder.
