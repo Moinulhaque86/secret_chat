@@ -8,7 +8,7 @@ This is a simple chat application which can be used locally and the data are enc
 In **Command Prompt**, run:  
 ```bash
 pip install cryptography
-
+```
 
 write it in command prompt for installing cryptography in your Computer
 <pre> bash pip install cryptography </pre>
