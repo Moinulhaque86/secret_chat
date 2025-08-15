@@ -20,15 +20,35 @@ Make sure both files are in the **same folder**:
 ### 3 Run the Chat Program
 
 Open two Command Prompt windows and run in each:
-```python secret_chat.py``` 
+```
+python secret_chat.py
+``` 
 
-At first on getting the prompt write **server** or  **client** to get role
+### 4 Choose Your Role
 
-If client is chosen then you need to provide the IP Address of server. Use `ipconfig` to get the IPV4 address for Ethernet2
+When prompted, type:
 
-Normal message will be sent withour any encryption by clicking send.
+`server` → Starts as the host
 
-You may Share Public key from both end and then share  AES key.
+`client` → Connects to the host (requires the host’s IP address)
 
-After that every conversation will be encyrted and decrypted at both ends.
+### 5 Finding the Server IP Address
+
+If you are the client, get the server’s IPv4 address:
+```
+ipconfig
+```
+
+Look for **Ethernet2** → **IPv4 Address**
+
+
+### 6 Sending Messages
+```
+. Normal messages are sent without **encryption** 
+
+. You may share public keys from both ends and then exchange an AES key
+
+. After exchanging the AES key, all messages will be encrypted and decrypted automatically on both ends 
+
+```
 
